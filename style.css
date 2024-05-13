@@ -662,7 +662,7 @@ width: 100%;
 }
 
 .lucros-icones-item img {
-    max-width: 50%;
+    max-width: 55%;
 }
 
 .depoimentos-video img {
@@ -1321,11 +1321,11 @@ width: 100%;
     }
 
     .carousel-slide img {
-        width: 150px;
+        width: 100px;
     }
 
     .carousel-track-container {
-        margin-left: 50px;
+        margin-left: 170px;
     }
 
     .analitycs {
@@ -1348,7 +1348,7 @@ width: 100%;
     }
 
     .icone-check-vantagens {
-        margin-left: 50px !important;
+        margin-left: 65px !important;
     }
 
     .imagem-destaque img {
@@ -1463,6 +1463,10 @@ width: 100%;
         padding-left: 0;
     }
 
+    .lucros-icones-item img {
+        max-width: 85%;
+    }
+
     .lucros-icones {
         display: grid !important;
         grid-template-columns: repeat(2, 50%);
@@ -1485,6 +1489,9 @@ width: 100%;
     .depoimentos-video {
         margin-top: 100px;
         height: 250px;
+        margin-left: 0;
+        margin-right: 0;
+        width: 100%;
     }
 
     .depoimentos-video {
